@@ -1,3 +1,3 @@
-# Vanilla Redux
+# Redux Practice
 
-Learning Vanilla-Redux and React-Redux
+Learning Redux with React
